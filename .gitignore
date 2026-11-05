@@ -1,0 +1,18 @@
+# dependências e build
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# variáveis de ambiente locais
+.env
+.env*.local
+
+# Azure Static Web Apps CLI
+.swa/
+
+# sistema / editor
+.DS_Store
+.vscode/
+.idea/
